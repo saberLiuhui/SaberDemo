@@ -1,0 +1,16 @@
+PODS:
+  - DemoSaber (0.1.0)
+
+DEPENDENCIES:
+  - DemoSaber (from `../`)
+
+EXTERNAL SOURCES:
+  DemoSaber:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DemoSaber: 1110f9f8d84a5f8cba9bda2fb0d28b4562aef1e8
+
+PODFILE CHECKSUM: 9df487d6c62f0c10d4ff24fd16671fc4a85e6ce8
+
+COCOAPODS: 1.9.3
